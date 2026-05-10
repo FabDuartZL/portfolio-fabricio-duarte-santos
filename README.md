@@ -43,6 +43,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | A corrida do Prompt | Este projeto refina prompts para gerar imagens barrocas de um astronauta e um e-mail satírico de um pirata de 1499 sobre tecnologia. | [Ver Projeto](./projeto-a-corrida-do-prompt/) |
 | Laboratório de Classificação Visual | Estudo prático sobre refinamento de prompts artísticos/textuais e análise ética de vieses em modelos de classificação visual de imagem. | [Ver Projeto](./projeto-laboratorio-de-classificação-visual/) |
 | Batalha de Modelos & Engenharia de Prompt | Este projeto documenta um experimento de Engenharia de Prompt comparando o desempenho de sete IAs na criação do site NightHub via instruções em XML. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
+| Engenharia Reversa | Este projeto utiliza o Google AI Studio para analisar a interface do site QR Code Styling para reconstruir via IA todo o código funcional necessário para replicar a ferramenta. | [Ver Projeto](./engenharia-reversa/) |
  
 ---
  
