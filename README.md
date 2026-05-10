@@ -44,7 +44,8 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | Laboratório de Classificação Visual | Estudo prático sobre refinamento de prompts artísticos/textuais e análise ética de vieses em modelos de classificação visual de imagem. | [Ver Projeto](./projeto-laboratorio-de-classificação-visual/) |
 | Batalha de Modelos & Engenharia de Prompt | Este projeto documenta um experimento de Engenharia de Prompt comparando o desempenho de sete IAs na criação do site NightHub via instruções em XML. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
 | Engenharia Reversa | Este projeto utiliza o Google AI Studio para analisar a interface do site QR Code Styling para reconstruir via IA todo o código funcional necessário para replicar a ferramenta. | [Ver Projeto](./engenharia-reversa/) |
-| MVP GERADOR DE QR CODE | Este projeto utiliza o Google AI Studio para otimizar o QR Code Styling, aplicando IA para refinar o design e implementar funcionalidades autorais exclusivas. | [Ver Projeto](./projeto-mvp-qrcode/) |
+| MVP GERADOR DE QR CODE | Este projeto utiliza o **Bubble.io** para estruturar um sistema de gestão de férias, centralizando solicitações de colaboradores e aprovações de gestores em um ambiente intuitivo. A integração com IA otimiza o controle operacional, validando automaticamente a conformidade de datas e mitigando conflitos de agenda na equipe. | [Ver Projeto](./projeto-mvp-qrcode/) |
+| Engenharia de Software e IA com Bubble.io |  | [Ver Projeto](./controle-de-ferias/) |
  
 ---
  
