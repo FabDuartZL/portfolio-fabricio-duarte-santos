@@ -41,10 +41,10 @@ Criação de uma interação complexa de turnos múltiplos envolvendo o pirata *
 ---
 
 ## 👥 Membros do Grupo
-* [cite_start]**Fabricio Duarte Santos** (Matrícula: 48200425) [cite: 236]
-* [cite_start]**Davi Henrique Santos Nascimento** (Matrícula: 47434899) [cite: 238]
-* [cite_start]**João Lucas Moreira Dos Reis** (Matrícula: 48162086) [cite: 239]
-* [cite_start]**Matheus Cardoso Sena** (Matrícula: 48214060) [cite: 240]
+**Fabricio Duarte Santos** (Matrícula: 48200425) [cite: 236]
+**Davi Henrique Santos Nascimento** (Matrícula: 47434899) [cite: 238]
+**João Lucas Moreira Dos Reis** (Matrícula: 48162086) [cite: 239]
+**Matheus Cardoso Sena** (Matrícula: 48214060) [cite: 240]
 
 ---
 
