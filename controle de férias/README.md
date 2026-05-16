@@ -52,18 +52,4 @@ O projeto apresentou melhorias significativas no processo de gestão de férias 
 
 ---
 
-## 🧱 Estrutura da Aplicação
-
-```bash
-Sistema-Controle-Ferias/
-├── Dashboard Administrativo
-├── Gestão de Colaboradores
-├── Solicitação de Férias
-├── Fluxo de Aprovação
-├── Controle de Saldo
-├── Calendário de Férias
-├── Sistema de Notificações
-└── Banco de Dados Cloud
- 
----
 [Voltar ao portfólio](https://github.com/FabDuartZL/portfolio-fabricio-duarte-santos)
