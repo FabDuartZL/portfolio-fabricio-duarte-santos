@@ -39,5 +39,9 @@ Atualmente cursando o 1° período de Engenharia De Software na Universidade Cid
 | Engenharia de Software e IA com Bubble.io | Este projeto utiliza o **Bubble.io** para estruturar um sistema de gestão de férias, centralizando solicitações de colaboradores e aprovações de gestores em um ambiente intuitivo. A integração com IA otimiza o controle operacional, validando automaticamente a conformidade de datas e mitigando conflitos de agenda na equipe. | [Ver Projeto](./controle-de-ferias/) |
  
 ---
+ ### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
  
+- `root/`: Arquivo de apresentação principal.
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
