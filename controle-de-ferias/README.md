@@ -13,3 +13,7 @@ A aplicação busca reduzir erros operacionais, otimizar processos administrativ
 https://entrega-56618.bubbleapps.io/version-test
 
 *Figura 1: Dashboard principal do sistema de controle de férias.*
+
+---
+
+[🏠 Voltar ao Portfólio](https://github.com/FabDuartZL/portfolio-fabricio-duarte-santos)
